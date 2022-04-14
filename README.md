@@ -1,2 +1,4 @@
 # minor_projects
-place for test-project
+
+사소한 프로젝트 아이디어에서부터 시작해서
+여러 가지 프로젝트를 위한 공간입니다.
